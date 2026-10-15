@@ -1,0 +1,6 @@
+C:\Users\Malose Kamo\Downloads\CybersecurityAwarenessChatbot_Part2_Fixed (2)\CybersecurityAwarenessChatbot\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.MainForm.resources
+C:\Users\Malose Kamo\Downloads\CybersecurityAwarenessChatbot_Part2_Fixed (2)\CybersecurityAwarenessChatbot\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.csproj.GenerateResource.cache
+C:\Users\Malose Kamo\Downloads\CybersecurityAwarenessChatbot_Part2_Fixed (2)\CybersecurityAwarenessChatbot\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malose Kamo\Downloads\CybersecurityAwarenessChatbot_Part2_Fixed (2)\CybersecurityAwarenessChatbot\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.AssemblyInfoInputs.cache
+C:\Users\Malose Kamo\Downloads\CybersecurityAwarenessChatbot_Part2_Fixed (2)\CybersecurityAwarenessChatbot\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.AssemblyInfo.cs
+C:\Users\Malose Kamo\Downloads\CybersecurityAwarenessChatbot_Part2_Fixed (2)\CybersecurityAwarenessChatbot\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.csproj.CoreCompileInputs.cache
