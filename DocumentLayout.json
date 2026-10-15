@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\AppData\\Local\\Temp\\3300f1fc-e75c-47ed-80d9-6c7d7689abfb_CybersecurityAwarenessChatbot_Part2_Fixed (1).zip.bfb\\CybersecurityAwarenessChatbot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CybersecurityAwarenessChatbot\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CybersecurityAwarenessChatbot\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\README-Fix-Instructions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CybersecurityAwarenessChatbot\\README-Fix-Instructions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\MainForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CybersecurityAwarenessChatbot\\MainForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\AppData\\Local\\Temp\\3300f1fc-e75c-47ed-80d9-6c7d7689abfb_CybersecurityAwarenessChatbot_Part2_Fixed (1).zip.bfb\\CybersecurityAwarenessChatbot\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\3300f1fc-e75c-47ed-80d9-6c7d7689abfb_CybersecurityAwarenessChatbot_Part2_Fixed (1).zip.bfb\\CybersecurityAwarenessChatbot\\Program.cs",
+              "ToolTip": "C:\\Users\\Malose Kamo\\AppData\\Local\\Temp\\3300f1fc-e75c-47ed-80d9-6c7d7689abfb_CybersecurityAwarenessChatbot_Part2_Fixed (1).zip.bfb\\CybersecurityAwarenessChatbot\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\3300f1fc-e75c-47ed-80d9-6c7d7689abfb_CybersecurityAwarenessChatbot_Part2_Fixed (1).zip.bfb\\CybersecurityAwarenessChatbot\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:21:31.302Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\MainForm.resx",
+              "RelativeDocumentMoniker": "CybersecurityAwarenessChatbot\\MainForm.resx",
+              "ToolTip": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\MainForm.resx",
+              "RelativeToolTip": "CybersecurityAwarenessChatbot\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-14T19:18:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T19:17:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CybersecurityAwarenessChatbot.csproj",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+              "RelativeDocumentMoniker": "CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+              "ToolTip": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+              "RelativeToolTip": "CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T19:16:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README-Fix-Instructions.txt",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\README-Fix-Instructions.txt",
+              "RelativeDocumentMoniker": "CybersecurityAwarenessChatbot\\README-Fix-Instructions.txt",
+              "ToolTip": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\README-Fix-Instructions.txt",
+              "RelativeToolTip": "CybersecurityAwarenessChatbot\\README-Fix-Instructions.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-14T19:15:51.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\Program.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwarenessChatbot\\Program.cs",
+              "ToolTip": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\Program.cs",
+              "RelativeToolTip": "CybersecurityAwarenessChatbot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:15:46.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\MainForm.cs",
+              "RelativeDocumentMoniker": "CybersecurityAwarenessChatbot\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Malose Kamo\\Downloads\\CybersecurityAwarenessChatbot_Part2_Fixed (2)\\CybersecurityAwarenessChatbot\\MainForm.cs",
+              "RelativeToolTip": "CybersecurityAwarenessChatbot\\MainForm.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T19:15:43.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

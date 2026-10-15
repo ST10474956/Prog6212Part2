@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-CybersecurityAwarenessChatbot_Part2_Fixed (2)",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
